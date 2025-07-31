@@ -32,9 +32,9 @@ export function AppSidebar({ onCategorySelect, selectedCategory }: AppSidebarPro
         {/* Company Header */}
         <div className="p-6 border-b border-white/10">
           <div className="flex items-center gap-3">
-            <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center backdrop-blur-sm">
+            {/* <div className="w-12 h-12 bg-white/20 rounded-xl flex items-center justify-center backdrop-blur-sm">
               <Leaf className="w-7 h-7 text-white" />
-            </div>
+            </div> */}
             <div className="text-white">
               <h2 className="font-bold text-base">AI Alliance</h2>
               <p className="text-sm opacity-90">Agriculture NGO</p>

@@ -44,7 +44,7 @@ const Index = () => {
             <div className="h-full flex items-center px-8">
               <div className="text-white max-w-2xl">
                 <h1 className="text-4xl font-bold mb-4">
-                  Fresh African Agricultural Products
+                  Fresh African Leafy Vegatables
                 </h1>
                 <p className="text-xl mb-6 opacity-90">
                   Supporting local farmers and sustainable agriculture across Africa
